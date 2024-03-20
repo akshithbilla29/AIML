@@ -10,3 +10,9 @@ AKSHITH BILLA
 [LAB-03](https://github.com/akshithbilla29/AIML-BATCH-10/blob/main/LAB_03_AIML.ipynb)
 
 [LAB-04](https://github.com/akshithbilla29/AIML-BATCH-10/blob/main/LAB_AIML_04.ipynb)
+
+[LAB-05](https://github.com/akshithbilla29/AIML-BATCH-10/blob/main/LAB_05.ipynb)
+
+[LAB-06](https://github.com/akshithbilla29/AIML-BATCH-10/blob/main/LAB_06.ipynb)
+
+[LAB-07](https://github.com/akshithbilla29/AIML-BATCH-10/blob/main/LAB_07.ipynb)
