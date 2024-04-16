@@ -16,3 +16,5 @@ AKSHITH BILLA
 [LAB-06](https://github.com/akshithbilla29/AIML-BATCH-10/blob/main/LAB_06.ipynb)
 
 [LAB-07](https://github.com/akshithbilla29/AIML-BATCH-10/blob/main/LAB_07.ipynb)
+
+[LAB-08](https://github.com/akshithbilla29/AIML-BATCH-10/blob/main/Lab_08.ipynb)
